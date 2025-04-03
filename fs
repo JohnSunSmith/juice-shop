@@ -1,0 +1,5 @@
+#/bin/uyser
+
+Select * from *
+
+ 
